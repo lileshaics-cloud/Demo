@@ -1,0 +1,31 @@
+
+1) Hyper-V
+2) Virtual Machine Platform
+3) Windows Hypervisor Platform
+4) Windows Subsystem for Linux
+
+sudo apt update
+sudo apt upgrade
+sudo apt install gcc
+sudo apt install build-essential
+
+
+
+
+
+
+
+UserName:- cdac
+Password:- cdac
+
+
+
+
+
+
+
+
+
+
+UserName:- dac_exam
+Password:- cdac
